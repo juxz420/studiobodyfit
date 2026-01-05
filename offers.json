@@ -1,0 +1,150 @@
+[
+    {
+        "title": "Vacu",
+        "price": "40 zł",
+        "description": "30 minut - masaż próżniowy",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Rollinasażer",
+        "price": "40 zł",
+        "description": "30 minut - massage roller therapy",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Limfodrenażu",
+        "price": "45 zł",
+        "description": "30 minut - zabieg detoksykacyjny",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Elektrostymulacja",
+        "price": "50 zł",
+        "description": "30 minut - rzeźbienie mięśni",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Pakiet Miesięczny - 1x/tydz",
+        "price": "199 zł",
+        "description": "1 godzina (8 urządzeń) - abonament miesięczny",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Pakiet Miesięczny - 2x/tydz",
+        "price": "299 zł",
+        "description": "1 godzina (16 urządzeń) - abonament miesięczny",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Pakiet Miesięczny - 3x/tydz",
+        "price": "399 zł",
+        "description": "1 godzina (24 urządzenia) - abonament miesięczny",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Karnet OPEN Miesięczny",
+        "price": "499 zł",
+        "description": "Bez ograniczeń - pełen dostęp",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Fala Uderzeniowa - 1 zabieg",
+        "price": "229 zł",
+        "description": "Udarowa terapia falą",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Fala Uderzeniowa - Pakiet 5",
+        "price": "995 zł",
+        "description": "5 zabiegów (oszczędność: 5x199 zł)",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Fala Uderzeniowa - Pakiet 10",
+        "price": "1790 zł",
+        "description": "10 zabiegów (oszczędność: 10x179 zł)",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Pakiet Odchudzający - 1 zabieg",
+        "price": "269 zł",
+        "description": "Fala uderzeniowa + vacu + rolka",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Pakiet Odchudzający - 5 zabiegów",
+        "price": "1245 zł",
+        "description": "5x (fala + vacu + rolka) - oszczędność: 5x249 zł",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Pakiet Odchudzający - 10 zabiegów",
+        "price": "2190 zł",
+        "description": "10x (fala + vacu + rolka) - oszczędność: 10x219 zł",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Body Wraping - 1 zabieg",
+        "price": "150 zł",
+        "description": "Modelowanie sylwetki",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Body Wraping - Pakiet 3",
+        "price": "390 zł",
+        "description": "3 zabiegi (oszczędność: 3x130 zł)",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Masaż Klasyczny",
+        "price": "170 zł",
+        "description": "Profesjonalny masaż relaksacyjny",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Masaż Relaksacyjny",
+        "price": "170 zł",
+        "description": "Pobyt spa i odprężenie",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Masaż Kobido",
+        "price": "150 zł",
+        "description": "Japoński masaż twarzy",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Oczyszczanie Wodorowe - 1 zabieg",
+        "price": "170 zł",
+        "description": "Oczyszczanie hydrodermabrażją",
+        "image": "",
+        "url": "#contact"
+    },
+    {
+        "title": "Oczyszczanie Wodorowe - Pakiet 3",
+        "price": "450 zł",
+        "description": "3 zabiegi (oszczędność: 3x150 zł)",
+        "image": "",
+        "url": "#contact"
+    }
+]
+
